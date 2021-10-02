@@ -1,8 +1,8 @@
 <h1 align="centre">🎵 I'M Music 🎵</h1>
 
-### A bot that can play music on Telegram Group and Channel Voice Chats
+### Bot yang dapat memutar musik di Grup Telegram dan Obrolan Suara Channel
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@IMNEEYBot](https://t.me/Biarenakliatnyaaa)
+### Available on telegram as [@IMNEEY](https://t.me/Biarenakliatnyaaa)
 
 <p align="center">
   <img src="https://telegra.ph/file/e3687c2f0d0cdf01a83f5.jpg">
