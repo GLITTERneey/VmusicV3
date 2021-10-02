@@ -1,11 +1,11 @@
-<h1 align="centre">🎵 Geez Music Projects 🎵</h1>
+<h1 align="centre">🎵 I'M Music 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@GeezMusicBot](https://t.me/GeezMusicBot)
+### Available on telegram as [@IMNEEYBot](https://t.me/Biarenakliatnyaaa)
 
 <p align="center">
-  <img src="https://telegra.ph/file/9c33051aae30b996e0ca4.jpg">
+  <img src="https://telegra.ph/file/e3687c2f0d0cdf01a83f5.jpg">
 </p>
 <h2> Features </h2>
 
@@ -37,7 +37,7 @@ $ python(3) -m GeezProject
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/widodo01/VMusicProject/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GLITTERneey/VMusicV3/tree/master)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/vckyou/PyrogramString)](https://repl.it/@vckyou/PyrogramString?lite=1&outputonly=1)
