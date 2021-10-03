@@ -38,6 +38,8 @@ Saya Memiliki Banyak Fitur Seperti :
 
 📌 Special Thanks To : @Biarenakliatnyaaa X @vckyou
 
+🎈 Di kelola oleh Glitter : @biarenakliatnyaaa
+
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",
 
