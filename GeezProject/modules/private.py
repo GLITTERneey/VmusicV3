@@ -32,11 +32,11 @@ async def start_(client: Client, message: Message):
 Saya Adalah Bot Music Group, Yang dapat Memutar Lagu di Voice Chat Group Anda Dengan Mudah
 Saya Memiliki Banyak Fitur Seperti :
 • Memutar Musik.
-• Mendownload Lagu.
+• Mendownload Lagu yang ingin kamu download sesaui ekspetasi.
 • Mencari Lagu Yang ingin di Putar atau di Download.
-• Gunakan Perintah » /help « untuk Mengetahui Fitur Lengkapnya
+• mendonasi kan ke pihak owner bot seikhlasnyaa, jika kamu ada rezeki.
 
-📌 Special Thanks To : {OWNER}
+📌 Special Thanks To : @Biarenakliatnyaaa X @vckyou
 
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",
@@ -51,12 +51,12 @@ Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
                         "➕ Tambahkan saya ke Grup Anda ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "💬 Channel Updates", url=f"https://t.me/{UPDATES_CHANNEL}"), 
+                        "💬 Channel Updates", url=f"https://t.me/storeglitter"), 
                     InlineKeyboardButton(
-                        "🎈 Group Support", url=f"https://t.me/{SUPPORT_GROUP}")
+                        "🎈 Group Support", url=f"https://t.me/Virtuallnihboss")
                 ],[
                     InlineKeyboardButton(
-                        "🎁 Donate", url=f"https://t.me/Bukan_guudlooking")
+                        "🎁 Donate", url=f"https://t.me/Biarenakliatnyaaa")
                 ]
             ]
         ),
@@ -96,9 +96,9 @@ def map(pos):
         url = f"https://t.me/{SUPPORT_GROUP}"
         button = [
             [InlineKeyboardButton("➕ Tambahkan saya ke Grup Anda ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-            [InlineKeyboardButton(text = '💬 Channel Updates', url=f"https://t.me/{UPDATES_CHANNEL}"),
-             InlineKeyboardButton(text = '🔰 Group Support', url=f"https://t.me/{SUPPORT_GROUP}")],
-            [InlineKeyboardButton(text = '🛠 Source Code 🛠', url=f"https://{SOURCE_CODE}")],
+            [InlineKeyboardButton(text = '💬 Channel Updates', url=f"https://t.me/storeglitter"),
+             InlineKeyboardButton(text = '🔰 Group Support', url=f"https://t.me/Virtuallnihboss")],
+            [InlineKeyboardButton(text = '🛠 Source Code 🛠', url=f"https://Jarak_Virtual")],
             [InlineKeyboardButton(text = '«', callback_data = f"help+{pos-1}")]
         ]
     else:
@@ -146,7 +146,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "📜 Cara Menggunakan BOT 📜", url="https://t.me/VirtualMusicChannel/12"
+                        "📜 Cara Menggunakan BOT 📜", url="https://t.me/Biarenakliatnyaaa"
                     )
                 ]
             ]
@@ -165,10 +165,10 @@ async def reload(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Group Support", url=f"https://t.me/GroupVirtualMusic"
+                        "Group Support", url=f"https://t.me/Virtuallnihboss"
                     ),
                     InlineKeyboardButton(
-                        "Created By", url=f"https://t.me/Bukan_guudlooking"
+                        "Created By", url=f"https://t.me/Biarenakliatnyaaa"
                     )
                 ]
             ]
